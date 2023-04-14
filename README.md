@@ -6,6 +6,7 @@
 
 查看演示站！
 ![Image](https://user-images.githubusercontent.com/127670759/227711315-2dc83a51-cf7c-43a1-910b-17711eb16a35.jpg)
+![428d1951e3cc4c2460d3d0bbe987415](https://user-images.githubusercontent.com/127670759/232078029-486613bf-7af9-4f87-98c6-b83a76675870.jpg)
 
 1.页面简洁美观，后台管理功能完善，简单部署即可轻松上线，有完整的微信支付功能
 2.已更新画图功能！接入gpt4！
